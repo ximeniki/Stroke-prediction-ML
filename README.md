@@ -26,5 +26,9 @@ This project develops a predictive model to identify the probability of a stroke
 ## Key Findings
 The model identifies **Age**, **Average Glucose Level**, and **BMI** as critical factors in predicting stroke risk, demonstrating the power of ensemble methods in healthcare analytics.
 
+## Data Source
+The dataset used in this project was provided by **[abdelDebug](https://github.com/abdelDebug/stroke_prediction)**. 
+It contains 5,110 observations with clinical features such as hypertension, heart disease, and glucose levels, used to predict the risk of stroke.
+
 ---
 *Developed as a showcase of Machine Learning applications in Medical Engineering.*
